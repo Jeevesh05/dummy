@@ -1,8 +1,6 @@
-hello, my name is Jeevesh and I made repo so that I can understand git and github
+hello, my name is Jeevesh and I made ths repo so that I can understand git and github
 
-remove ur respective line and add a new file and raise 2 separate pr for it.
+Created a branch with name jk and made changes to this file to be reflected
 
-jeevesh : done
-sakshi :  remove this
-yashna : dfsdfjsdk
-rishab : dsgufdsgj
+this should be removed. Done by jk
+
